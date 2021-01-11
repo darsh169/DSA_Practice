@@ -9,3 +9,5 @@
 |[--](--)|--|[View](--)|
 |[1335C](https://codeforces.com/problemset/problem/1335/C)|1100|[View](CPP/1335C.cp)|
 |[--](--)|--|[View](--)|
+|[1472D](https://codeforces.com/problemset/problem/1472/D)|1200|[View](CPP/1472D.cp)|
+|[--](--)|--|[View](--)|
