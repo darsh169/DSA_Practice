@@ -4,6 +4,7 @@
 |--------- | ---------- | --- |
 |[82A](https://codeforces.com/problemset/problem/82/A)|1100|[View](CPP/82A.cp)|
 |[1327A](https://codeforces.com/problemset/problem/1327/A)|1100|[View](CPP/1327A.cp)|
+|[1463A](https://codeforces.com/problemset/problem/1463/A)|1100|[View](CPP/1463A.cp)|
 |[--](--)|--|[View](--)|
 |[363B](https://codeforces.com/problemset/problem/363/B)|1100|[View](CPP/363B.cp)|
 |[1471B](https://codeforces.com/problemset/problem/1471/B)|1100|[View](CPP/1471B.cp)|
