@@ -6,6 +6,7 @@
 |[1327A](https://codeforces.com/problemset/problem/1327/A)|1100|[View](CPP/1327A.cp)|
 |[--](--)|--|[View](--)|
 |[363B](https://codeforces.com/problemset/problem/363/B)|1100|[View](CPP/363B.cp)|
+|[1471B](https://codeforces.com/problemset/problem/1471/B)|1100|[View](CPP/1471B.cp)|
 |[--](--)|--|[View](--)|
 |[1335C](https://codeforces.com/problemset/problem/1335/C)|1100|[View](CPP/1335C.cp)|
 |[1472C](https://codeforces.com/contest/1472/problem/C)|1100|[View](CPP/1472C.cp)|
