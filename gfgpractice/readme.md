@@ -5,5 +5,5 @@
 
 |[Long Division](https://practice.geeksforgeeks.org/problems/large-number-division0207/1)|IMP|[View](cpp/long_div.cp)|
 
-|[--](--)|--|[View](--)|
+|[All permutaions of string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0#)|IMP|[View](cpp/string_permutations.cp)|
 |[--](--)|--|[View](--)|
