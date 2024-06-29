@@ -1,0 +1,9 @@
+## Time and Space Complexity
+
+## Space complexity 
+1. Space required for code to run
+
+## Time complexity
+1. Time order required for code to run
+2. Its not the time taken by code to complete the run
+3. Its the rate at which time taken by code to run increases as number of inputs increase
